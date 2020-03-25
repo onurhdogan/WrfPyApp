@@ -2,7 +2,7 @@
 WRF Data visualization with WrfPyApp
 
 You could use WrfPyApp on your PC after install necessary Python packages. 
-You could find the WrfPyApp.py executable file in the repository.
+You could find the WrfPyApp.py first version executable file in the repository.
 
 Tutorial Video link is below 
 
