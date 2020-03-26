@@ -1,7 +1,8 @@
 # WrfPyApp
 ![alt text](https://github.com/onurhdogan/WrfPyApp/blob/master/ctt.png)
-WRF Data visualization with WrfPyApp
 
+
+WRF Data visualization with WrfPyApp.
 WrfPyApp uses WRF-Python (https://github.com/NCAR/wrf-python/tree/master) package.
 
 You could use WrfPyApp on your PC after installing necessary Python packages.
