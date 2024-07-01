@@ -17,6 +17,6 @@ setup(
         'matplotlib==3.1.3'
         ],
     author='Onur Hakan Dogan',
-    author_email='ohdogan@mgm.gov.tr',
+    author_email='onurhdogan@gmail.com',
     description='Crude API for the WRFPyApp',
 )
